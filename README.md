@@ -49,6 +49,5 @@ admin.site.register(Employee,EmployeeAdmin)
 
 ![OUTPUT](./Out.png)
 
-
 ## RESULT
 Program executed successfully
