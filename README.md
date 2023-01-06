@@ -47,7 +47,7 @@ admin.site.register(Employee,EmployeeAdmin)
 
 ## OUTPUT
 
-![OUTPUT](./Output.png)
+![OUTPUT](./Out.png)
 
 
 ## RESULT
